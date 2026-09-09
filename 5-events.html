@@ -46,7 +46,7 @@
                 alert(event.target.previousSibling.value);
             }
 
-            function handleInputChance(event) {
+            function handleInputChange(event) {
                 console.log(event.target.value)
             }
 
@@ -55,7 +55,7 @@
                     <input 
                         type="text"
                         placeholder="Typing something..."
-                        onChance={handleInputChance}
+                        onChange={handleInputChange}
                     />
                     
                     <button onClick={handleAlertClick}>
