@@ -9,6 +9,10 @@ Appling on the calculator:
 
 <img src="images/image-1.png" alt="">
 
+3) Responsive 
+<img src="images/image-2.png" alt="">
+
+
 Reviewing: 
 - components
 - properties
