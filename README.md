@@ -3,11 +3,11 @@ Appling on the calculator:
 
 1) Open calculator
 
-!(images/image.png) 
+<img src="images/image.png" alt="">
 
 2) Doing some operation, and the operation history 
 
-!(images/image-1.png)
+<img src="images/image-1.png" alt="">
 
 Reviewing: 
 - components
